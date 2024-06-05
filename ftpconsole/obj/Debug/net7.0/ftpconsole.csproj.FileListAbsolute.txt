@@ -1,0 +1,14 @@
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/bin/Debug/net7.0/ftpconsole
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/bin/Debug/net7.0/ftpconsole.deps.json
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/bin/Debug/net7.0/ftpconsole.runtimeconfig.json
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/bin/Debug/net7.0/ftpconsole.dll
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/bin/Debug/net7.0/ftpconsole.pdb
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ftpconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ftpconsole.AssemblyInfoInputs.cache
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ftpconsole.AssemblyInfo.cs
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ftpconsole.csproj.CoreCompileInputs.cache
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ftpconsole.dll
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/refint/ftpconsole.dll
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ftpconsole.pdb
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ftpconsole.genruntimeconfig.cache
+/Users/kurisu/Vscode/ftpconsole/ftpconsole/obj/Debug/net7.0/ref/ftpconsole.dll
